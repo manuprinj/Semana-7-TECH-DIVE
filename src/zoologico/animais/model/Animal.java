@@ -1,4 +1,4 @@
-package zoologico.animais;
+package zoologico.animais.model;
 
 
 public abstract class Animal {

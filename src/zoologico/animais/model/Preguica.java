@@ -1,9 +1,9 @@
-package zoologico.animais;
+package zoologico.animais.model;
 
 
-public class Preguiça extends Animal {
+public class Preguica extends Animal {
 
-    public Preguiça(String nome, int idade) {
+    public Preguica(String nome, int idade) {
         super(nome, idade);
     }
 

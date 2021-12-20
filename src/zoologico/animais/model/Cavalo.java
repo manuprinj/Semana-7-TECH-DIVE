@@ -1,9 +1,9 @@
-package zoologico.animais;
+package zoologico.animais.model;
 
 
-public class Cachorro extends Animal {
+public class Cavalo extends Animal {
 
-    public Cachorro(String nome, int idade) {
+    public Cavalo(String nome, int idade) {
         super(nome, idade);
     }
 
@@ -13,7 +13,6 @@ public class Cachorro extends Animal {
 
     @Override
     public String emitirSom() {
-        return "Au Au";
+        return "Iiirrrrí";
     }
-
 }

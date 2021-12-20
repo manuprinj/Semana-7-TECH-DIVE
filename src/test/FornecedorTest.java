@@ -1,3 +1,9 @@
+package test;
+
+
+import model.Fornecedor;
+
+
 public class FornecedorTest {
 
     public static void main(String[] args) {

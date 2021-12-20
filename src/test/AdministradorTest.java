@@ -2,7 +2,6 @@ package test;
 
 
 import model.Administrador;
-import model.Empregado;
 
 
 public class AdministradorTest {

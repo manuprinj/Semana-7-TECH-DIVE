@@ -1,4 +1,4 @@
-package model;
+package empresa.model;
 
 
 public class Pessoa {

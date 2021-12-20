@@ -1,7 +1,7 @@
-package test;
+package empresa.test;
 
 
-import model.Administrador;
+import empresa.model.Administrador;
 
 
 public class AdministradorTest {

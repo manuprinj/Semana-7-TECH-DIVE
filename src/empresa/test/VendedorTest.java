@@ -1,7 +1,7 @@
-package test;
+package empresa.test;
 
 
-import model.Vendedor;
+import empresa.model.Vendedor;
 
 
 public class VendedorTest {
